@@ -1,0 +1,7 @@
+fastapi
+loguru
+pydantic
+requests
+ratelimit
+python-dotenv
+rank-torrent-name

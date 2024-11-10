@@ -1,0 +1,5 @@
+{
+    "require": ["720p","1080p", "4K", "2160p"],
+    "exclude": ["/CAM/i", "TS", "Collection"],
+    "preferred": ["HDR", "/BluRay/", "COMPLETE", "4K", "2160p"]
+}
