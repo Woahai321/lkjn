@@ -11,5 +11,11 @@
       "src": "/(.*)",
       "dest": "api/main.py"
     }
-  ]
+  ],
+  "build": {
+    "env": {
+      "PYTHON_VERSION": "3.9"
+    },
+    "commands": ["pip install -r requirements.txt"]
+  }
 }
